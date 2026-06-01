@@ -10,6 +10,7 @@ setup(
         "plotly",
         "scikit-learn",
         "scipy",
-        "pydantic"
+        "pydantic",
+        "statsmodels"
     ],
 )
